@@ -1,0 +1,13 @@
+{
+  "CloudformationStackARN": "arn:aws:cloudformation:us-east-2:639084637042:stack/SC-639084637042-pp-yftgzmivhp4xo/fb068ea0-7b16-11eb-b29b-0a4dcf4d7712",
+  "SageMakerIamRoleArn": "arn:aws:iam::639084637042:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole",
+  "SolutionPrefix": "sagemaker-soln-bs-js-klrkb2qt",
+  "SnakeAPI": "https://1ucydyas20.execute-api.us-east-2.amazonaws.com/snake/",
+  "SagemakerEndPointName": "sagemaker-soln-bs-js-klrkb2qt-ep",
+  "CheckSnakeStatus": "https://1ucydyas20.execute-api.us-east-2.amazonaws.com/snake/status",
+  "SagemakerInferenceInstanceType": "ml.t2.medium",
+  "SagemakerTrainingInstanceType": "ml.m5.xlarge",
+  "S3Bucket": "sagemaker-soln-bs-js-klrkb2qt-snake-bucket",
+  "EndPointS3Location": "s3://sagemaker-solutions-prod-us-east-2/sagemaker-battlesnake-ai/build/model-complete.tar.gz",
+  "SageMakerIamRole": "arn:aws:iam::639084637042:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole"
+}
